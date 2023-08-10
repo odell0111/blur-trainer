@@ -7,3 +7,8 @@ Game Trainer for Blur 2010
   <img src="Screenshots/Capture02.png"><br/><br/>
   <img src="Screenshots/Capture03.png"><br/><br/>
 <div/>
+
+## Visit my other repos
+**[Custom GUI SFX](https://github.com/odell0111/custom-gui-sfx)**</br>
+**[Account Manager](https://github.com/odell0111/account-manager)**</br>
+**[NFS Most Wanted Trainer](https://github.com/odell0111/nfs-mostwanted-trainer)**</br>
